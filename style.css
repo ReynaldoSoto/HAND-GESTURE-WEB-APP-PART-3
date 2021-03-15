@@ -1,0 +1,33 @@
+.heading{
+    font-size: 40px;
+    letter-spacing: 5px;
+    border-radius: 20px;
+  }
+  body
+{
+  color: white;
+  background: darkgreen;
+}
+#camera , #result
+{
+  border: 2px dotted black;
+  width: 350px;
+  height: 300px; 
+}
+label{
+  font-size: 18px;
+}
+#Result1{
+  margin-left: 350px;
+  margin-top: -80px;
+}
+#Result1 label{
+  margin-left: 130px;
+}
+#Result1 button{
+  margin-left: 115px;
+}
+.gesture
+{
+  font-size:48px;
+}
